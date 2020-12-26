@@ -1,0 +1,15 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "creation of a glossary of dissertation terms and placement in the repository",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Artem Skadin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
